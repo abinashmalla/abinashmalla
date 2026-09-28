@@ -121,14 +121,6 @@ I enjoy finding defects, improving software quality, designing effective test ca
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinashmalla&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="left">
